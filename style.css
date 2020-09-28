@@ -1,0 +1,38 @@
+h1
+{
+    text-align: center;
+    align-content: flex-start;
+}
+button
+{
+    width: 25%;
+        
+}
+#buttons
+{
+    text-align: center;
+}
+
+
+#container
+{
+    align-self: center;
+    margin: 0px 50px 50px 50px;
+    overflow: hidden;
+    border-style: solid;
+    border-color:blue;
+}
+#sketchsize
+{
+    border-collapse:collapse;
+    
+    
+}
+.column
+{
+    border-width: thin;
+    border-style: solid;
+    border-color:burlywood;
+}
+
+
